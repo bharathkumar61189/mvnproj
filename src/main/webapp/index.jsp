@@ -8,9 +8,11 @@
     <body>
         <h1>Demo Project from Devops</h1>
         <h1>Good day DEVOPS.....</h1>
+        <h1>This is Bharath Kumar</h1>
+        <h1>This is Divya Sri</h1>
+        <h1>This is Komali</h1>
 
-
-<table width="40%" bgcolor="yellow" align="center" border="1">
+<table width="40%" bgcolor="Pink" align="center" border="1">
 
 <tr>
 <td colspan=2><center><font size=4><b>HTML Login Page</b></font></center></td>
