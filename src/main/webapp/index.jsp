@@ -9,17 +9,17 @@
         <h1>Demo Project from Devops</h1>
         <h1>Good day DEVOPS.....</h1>
         <h1>This is Bharath Kumar</h1>
-        <h1>This is Pichchi Divya Sri</h1>
+        <h1>This is Devendra</h1>
         <h1>This is Komali</h1>
 
-<table width="50%" bgcolor="Red" align="center" border="1">
+<table width="50%" bgcolor="crimson" align="center" border="2">
 
 <tr>
 <td colspan=2><center><font size=4><b>HTML Login Page</b></font></center></td>
 </tr>
 
 <tr>
-<td>Username:</td>
+<td>Usernam or Logine:</td>
 <td><input type="text" size=25 name="userid"></td>
 </tr>
 
