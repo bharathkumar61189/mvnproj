@@ -136,6 +136,7 @@ input[type=submit]:hover {
 <body>
 
 <h2>Responsive Social Login Form</h2>
+<h1> This is Bharath Kumar</h1>
 <p>Resize the browser window to see the responsive effect. When the screen is less than 650px wide, make the two columns stack on top of each other instead of next to each other.</p>
 
 <div class="container">
@@ -163,7 +164,7 @@ input[type=submit]:hover {
           <p>Or sign in manually:</p>
         </div>
 
-        <input type="text" name="username" placeholder="Username" required>
+        <input type="text" name="username or LoginID" placeholder="Username" required>
         <input type="password" name="password" placeholder="Password" required>
         <input type="submit" value="Login">
       </div>
