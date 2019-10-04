@@ -136,7 +136,8 @@ input[type=submit]:hover {
 <body>
 
 <h2>Responsive Social Login Form</h2>
-<h1> This is Bharath Kumar</h1>
+<h1> This is YADAGIRI</h1>
+<h1> This is a Example</h1>
 <p>Resize the browser window to see the responsive effect. When the screen is less than 650px wide, make the two columns stack on top of each other instead of next to each other.</p>
 
 <div class="container">
