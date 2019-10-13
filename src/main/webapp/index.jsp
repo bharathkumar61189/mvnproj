@@ -136,7 +136,6 @@ input[type=submit]:hover {
 <body>
 
 <h2>Responsive Social Login Form</h2>
-<h1> This is YADAGIRI</h1>
 <h1> This is a Example</h1>
 <p>Resize the browser window to see the responsive effect. When the screen is less than 650px wide, make the two columns stack on top of each other instead of next to each other.</p>
 
@@ -149,13 +148,13 @@ input[type=submit]:hover {
       </div>
 
       <div class="col">
-        <a href="#" class="fb btn">
+        <a href="www.fb.com" class="fb btn">
           <i class="fa fa-facebook fa-fw"></i> Login with Facebook
          </a>
-        <a href="#" class="twitter btn">
+        <a href="www.twitter.com" class="twitter btn">
           <i class="fa fa-twitter fa-fw"></i> Login with Twitter
         </a>
-        <a href="#" class="google btn"><i class="fa fa-google fa-fw">
+        <a href="www.google.co.in" class="google btn"><i class="fa fa-google fa-fw">
           </i> Login with Google+
         </a>
       </div>
